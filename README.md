@@ -16,7 +16,7 @@ A lightweight Go package for managing graceful shutdown of applications. It prov
 ## Installation
 
 ```bash
-go get github.com/yourusername/closer
+go get github.com/nzb3/closer
 ```
 
 
