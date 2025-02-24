@@ -1,4 +1,3 @@
-// closer_test.go
 package closer
 
 import (
