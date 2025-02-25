@@ -1,6 +1,6 @@
 // Package closer provides a mechanism for graceful shutdown by managing multiple closing functions.
 // It allows for concurrent execution of cleanup operations and handles OS signals for graceful termination.
-package main
+package closer
 
 import (
 	"log"
